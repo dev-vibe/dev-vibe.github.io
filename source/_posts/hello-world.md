@@ -1,38 +1,17 @@
 ---
-title: Hello World
+title: Let's Build an Express Server!
 ---
-Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to Dev Vibe! This is my first tutorial so............
 
-## Quick Start
+## Express Server Tutorial
 
-### Create a new post
+### Getting started:
 
-``` bash
-$ hexo new "My New Post"
+``` javascript
+var express = require('express'),
+	app = express()
+	
+	function doSomething(){
+		return yaddaYadda;
+	}
 ```
-
-More info: [Writing](http://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](http://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](http://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](http://hexo.io/docs/deployment.html)
