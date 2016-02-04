@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Dev Vibe]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://dev-vibe.github.io/"/>
+  <updated>2016-02-04T05:51:12.900Z</updated>
+  <id>http://dev-vibe.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Carlin Aylsworth]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Blog coming soon!]]></title>
+    <link href="http://dev-vibe.github.io/2016/02/04/hello-world/"/>
+    <id>http://dev-vibe.github.io/2016/02/04/hello-world/</id>
+    <published>2016-02-04T05:51:12.900Z</published>
+    <updated>2016-02-04T05:51:12.900Z</updated>
+    <content type="html"><![CDATA[<a id="more"></a>]]></content>
+    <summary type="html">
+    <![CDATA[<a id="more"></a>]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
